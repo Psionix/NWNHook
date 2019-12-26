@@ -1,0 +1,1 @@
+nwnhook.exe -profile hitandrun.ini

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loader", "loader\loader.vcxproj", "{60F9FF7B-D47E-4CA6-9191-A3847BB274FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll", "dll\dll.vcxproj", "{CF91614B-AEBF-4D5B-B7DD-51E38E66C88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F9FF7B-D47E-4CA6-9191-A3847BB274FC}.Debug|Win32.ActiveCfg = Release|Win32
+		{60F9FF7B-D47E-4CA6-9191-A3847BB274FC}.Debug|Win32.Build.0 = Release|Win32
+		{60F9FF7B-D47E-4CA6-9191-A3847BB274FC}.Release|Win32.ActiveCfg = Release|Win32
+		{60F9FF7B-D47E-4CA6-9191-A3847BB274FC}.Release|Win32.Build.0 = Release|Win32
+		{CF91614B-AEBF-4D5B-B7DD-51E38E66C88C}.Debug|Win32.ActiveCfg = Release|Win32
+		{CF91614B-AEBF-4D5B-B7DD-51E38E66C88C}.Debug|Win32.Build.0 = Release|Win32
+		{CF91614B-AEBF-4D5B-B7DD-51E38E66C88C}.Release|Win32.ActiveCfg = Release|Win32
+		{CF91614B-AEBF-4D5B-B7DD-51E38E66C88C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
